@@ -165,7 +165,7 @@ Feel free to open an issue or submit a pull request.
 
 ## Author
 
-**Serge Byusa**
+**Jabo Serge Byusa**
 
 GitHub: [@Byusa](https://github.com/Byusa)
 
